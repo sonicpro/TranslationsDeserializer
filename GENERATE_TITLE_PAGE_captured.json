@@ -1,0 +1,85 @@
+{
+    "body": {
+        "cover": {
+            "name": "test7",
+            "body": [
+                {
+                    "title": "project",
+                    "lines": [
+                        "US Project",
+                        "",
+                        "",
+                        "",
+                        "US"
+                    ]
+                },
+                {
+                    "title": "Submitted by",
+                    "lines": [
+                        null,
+                        null,
+                        null,
+                        "",
+                        "US"
+                    ]
+                },
+                {
+                    "title": "Phone",
+                    "lines": [
+                        null
+                    ]
+                },
+                {
+                    "title": "email",
+                    "lines": [
+                        null
+                    ]
+                },
+                {
+                    "title": "date",
+                    "lines": [
+                        "8/5/2021"
+                    ]
+                }
+            ]
+        },
+        "sessionId": "e8492641-297e-41ac-9c8d-ae20b6d4b3da",
+        "title": "test7",
+        "translations": {
+            "cover_page": {
+                "submittal_package": "FIRESTOP SUBMITTAL PACKAGE",
+                "project": "project",
+                "submitted_by": "Submitted by",
+                "phone": "Phone",
+                "email": "email",
+                "date": "date",
+                "auto_generated": "This submittal is auto-generated based on user-selected inputs.",
+                "hilti_repro": "Therefore, Hilti makes no representation as to the suitability of these systems for their intended use.",
+                "right_logo_firestop": "Hilti Firestop",
+                "right_logo_innovation": "Saving lives through innovation and education",
+                "lang": "en"
+            },
+            "table_of_content": {
+                "approval": "Approval documents",
+                "custom": "Other documents",
+                "product": "Product's documents",
+                "technical": "Technical documents",
+                "project": "Project Documents",
+                "unknown": "Unknown file type",
+                "title": "Table Of Contents",
+                "ul_listing": "Listing",
+                "trade_listing": "Listing",
+                "approvals": "Approvals",
+                "section": {
+                    "Approval": "Approval",
+                    "Product": "Product",
+                    "Technical": "Technical",
+                    "Custom": "Custom",
+                    "Unknown": "Unknown"
+                }
+            }
+        }
+    },
+    "requestId": "e8492641-297e-41ac-9c8d-ae20b6d4b3da",
+    "type": "GENERATE_TITLE_PAGE"
+}

@@ -9,4 +9,10 @@
     <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" Version="2.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="GENERATE_TITLE_PAGE_captured.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
